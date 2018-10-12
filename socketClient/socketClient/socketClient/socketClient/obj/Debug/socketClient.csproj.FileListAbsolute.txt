@@ -7,3 +7,6 @@ E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Deb
 E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.csproj.GenerateResource.Cache
 E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.exe
 E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.pdb
+E:\LitleByLitle\socket\socketClient\socketClient\socketClient\socketClient\bin\Debug\socketClient.exe.config
+E:\LitleByLitle\socket\socketClient\socketClient\socketClient\socketClient\obj\Debug\socketClient.exe
+E:\LitleByLitle\socket\socketClient\socketClient\socketClient\socketClient\obj\Debug\socketClient.pdb

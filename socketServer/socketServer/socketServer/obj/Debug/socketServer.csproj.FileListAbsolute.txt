@@ -1,0 +1,9 @@
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\bin\Debug\socketServer.exe.config
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\bin\Debug\socketServer.exe
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\bin\Debug\socketServer.pdb
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\obj\Debug\socketServer.csprojResolveAssemblyReference.cache
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\obj\Debug\socketServer.socketServer.resources
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\obj\Debug\socketServer.Properties.Resources.resources
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\obj\Debug\socketServer.csproj.GenerateResource.Cache
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\obj\Debug\socketServer.exe
+E:\LitleByLitle\socket\socketServer\socketServer\socketServer\obj\Debug\socketServer.pdb
