@@ -1,0 +1,9 @@
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\bin\Debug\socketClient.exe.config
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\bin\Debug\socketClient.exe
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\bin\Debug\socketClient.pdb
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.csprojResolveAssemblyReference.cache
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.Form1.resources
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.Properties.Resources.resources
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.csproj.GenerateResource.Cache
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.exe
+E:\经典算法自己总结学习\socketClient\socketClient\socketClient\obj\Debug\socketClient.pdb
